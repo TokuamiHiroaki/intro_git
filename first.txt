@@ -14,3 +14,4 @@ Ctrl + Wを押してエディタを閉じます。
 
 
 ・git rm
+・git status
